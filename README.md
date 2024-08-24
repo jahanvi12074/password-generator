@@ -1,15 +1,6 @@
 
 # Password Generator
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Password Generator is a simple and efficient tool designed to create secure and random passwords based on user-defined criteria. Whether you need a strong password for your online accounts or want to generate unique passwords for multiple platforms, this tool has you covered.
